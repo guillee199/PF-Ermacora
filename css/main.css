@@ -117,6 +117,10 @@ footer a:hover {
   margin-left: 20px;
 }
 
+.margin {
+  margin-top: 10px;
+}
+
 @media (width < 576px) {
   header section img {
     width: 350px;
