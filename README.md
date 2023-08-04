@@ -1,4 +1,5 @@
-# PreEntrega2Ermacora
+# Proyecto Final Ermacora
 
-Hola Tutores, este es el readme de mi repositorio para mi segunda entrega del proyecto.
-No se el por qué, pero el index se ve mal desde la pagina de github, pero mi proyecto se ve bien.
+Hola tutores, este es mi proyecto final para el curso de desarrollo web de CoderHouse.
+El tema que elegí para diseñar mi pagina fue el emprendimiento que tiene mi familia, el mismo es un emprendimiento de artesanías
+y velas aromáticas caseras.
